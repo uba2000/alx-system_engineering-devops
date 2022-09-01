@@ -1,2 +1,2 @@
 #!/bin/bash
-videoplayer-name videoplayer-arguments path-to-file
+telnet towel.blinkenlights.nl
